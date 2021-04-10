@@ -1,0 +1,590 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: aedrfdghnm
+Student_ID: asedrfghbnm
+Contact Number: 4567
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: np03a190321
+Student_ID: Subin
+Contact Number: 9843961267
+Address: mahakali,5-siilame
+Gender: Gender:
+Nationality: nepali
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: asdf
+Student_ID: sdf
+Contact Number: 45
+Address: df
+Gender: Gender:
+Nationality: werftg
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: asdf
+Student_ID: sdf
+Contact Number: 45
+Address: df
+Gender: Gender:
+Nationality: werftg
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: asd
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: asd
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: sd
+Student_ID: s
+Contact Number: 23
+Address: s
+Gender: Gender:
+Nationality: sd
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: 
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: 
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: 
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: 
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: 
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: 
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: np03a190321
+Student_ID: Subin Khanal
+Contact Number: 9843961267
+Address: mahakali-5,silame,nuwakot
+Gender: Gender:
+Nationality: nepali
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: amrit prasad sharma
+Student_ID: np03a19234
+Contact Number: 9876342123
+Address: baglung
+Gender: Gender:
+Nationality: nepali
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: fghj
+Student_ID: ghj
+Contact Number: 5678
+Address: ghj
+Gender: Gender:
+Nationality: dfghjk
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Subin khanal
+Student_ID: np03a190032
+Contact Number: 9843961267
+Address: nuwakot
+Gender: Gender:
+Nationality: nepali
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: sdf
+Student_ID: sdf
+Contact Number: 123
+Address: df
+Gender: Gender:
+Nationality: edrf
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: sdfg
+Student_ID: sdf
+Contact Number: 23
+Address:  jdjh
+Gender: Gender:
+Nationality:  jwehf
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: Gender:
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: Gender:
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: Gender:
+Nationality:  
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: null

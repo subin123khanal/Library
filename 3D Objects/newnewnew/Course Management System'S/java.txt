@@ -1,0 +1,831 @@
+
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: Sangita Khadka
+Student_ID: 12345
+Contact Number: 0987654321
+Address: nuwakot
+Gender: Gender:
+Nationality: nepali
+selected modules : 
+Web development
+Mathmatices
+Personal Development
+C Programming
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs
+
+
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Level 4
+Level 5
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Level 4
+Level 5
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Level 4
+Level 5
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: subin khanal
+Student_ID: np03a190321
+Contact Number: 98765432
+Address: nuwakot
+Gender: Gender:
+Nationality: nepali
+selected modules : 
+Level 4
+Level 5
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+null
+null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+null
+null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Level 4JavaPythonPHPAI
+Level 5c++gangopersonal development
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Level 4JavaPythonPHPAI
+Level 5c++gangopersonal development
+you had choosed level 6 modules:
+Sem_5 modules:[Ljava.lang.Object;@6fe2ebe5
+and Sem_6 modules:
+[Ljava.lang.Object;@d7c5ee4Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Level 4JavaPythonPHPAI
+Level 5c++gangopersonal development
+you had choosed level 6 modules:
+Sem_5 modules:[Ljava.lang.Object;@6ac7d370
+and Sem_6 modules:
+[Ljava.lang.Object;@33b75a67Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+Level 4JavaPythonPHPAI
+Level 5c++gangopersonal development
+you had choosed level 6 modules:
+Sem_5 modules:null
+Sem_6 modules:
+nullHad chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:C++
+sem_6Programmingyou had choosed level 6 modules:
+Sem_5 modules:[Ljava.lang.Object;@4cfbaebb
+Sem_6 modules:
+[Ljava.lang.Object;@5cffa07bHad chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:null
+sem_6nullSem_5 modules:[Ljava.lang.Object;@694d7b83
+Sem_6 modules:nullHad chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:C++
+sem_6ProgrammingSem_5 modules:[Ljava.lang.Object;@68462df2
+Sem_6 modules:[Ljava.lang.Object;@16c91b15Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:C++
+sem_6MATHmaticesSem_5 modules:[Ljava.lang.Object;@2e0d8d07
+Sem_6 modules:[Ljava.lang.Object;@5648e6e0Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:Database
+sem_6Programminglevel6 modules:nullnullHad chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:C++
+sem_6:ProgrammingHad chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:JAVA,Python
+sem_6:C++,ProgrammingHad chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:null,null
+sem_6:null,nullHad chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+sem_5:null,null
+sem_6:null,nullHad chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+JAVA,JAVA
+C++,ProgrammingHad chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+JAVA,Python
+null,nullHad chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+JAVA,Python
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+selected modules : 
+JAVA,Python
+Database,Programming
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+falsefalse
+selected modules : 
+falsefalse
+JAVA,JAVA
+Database,MATHmatices
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+truefalse
+selected modules : 
+falsefalse
+JAVA,JAVA
+Database,MATHmatices
+Had chosen: BIM
+                    Total amount to be paid is 3.8 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+falsetrue
+selected modules : 
+falsetrue
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+truefalse
+selected modules : 
+falsefalse
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+falsetrue
+selected modules : 
+falsetrue
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+Level 4Level 5
+selected modules : 
+falsefalse
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+Level 4Level 5
+selected modules : 
+falsetrue
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+Level 4Level 5
+selected modules : 
+ MaleLevel 5
+Python,Python
+Database,Programming
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+Level 4Level 5
+selected modules : 
+ MaleLevel 5
+Python,Python
+Database,Programming
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+Level 4Level 5
+selected modules : 
+ MaleLevel 5
+Python,Python
+Database,Programming
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+Level 4Level 5
+selected modules : 
+ MaleLevel 5
+Python,Python
+Database,Programming
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+Level 4Level 5
+selected modules : 
+ MaleLevel 5
+Python,Python
+Database,Programming
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+Level 4Level 5
+selected modules : 
+ MaleLevel 5
+Python,Python
+Database,Programming
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address:  
+Gender: Gender:
+Nationality:  
+Level 4Level 5
+selected modules : 
+ MaleLevel 5
+Python,Python
+Database,Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+2
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+javax.swing.JToggleButton$ToggleButtonModel@13154eea
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+javax.swing.JToggleButton$ToggleButtonModel@669d7f2e
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: subin
+Student_ID: 67890
+Contact Number: 65432
+Address: sdfgh
+Gender: Gender:
+Nationality: nepali
+level:javax.swing.JToggleButton$ToggleButtonModel@7224d896
+selected modules : 
+null,null
+null,null
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: subin
+Student_ID: 67890
+Contact Number: 65432
+Address: sdfgh
+Gender: Gender:
+Nationality: nepali
+level:javax.swing.JToggleButton$ToggleButtonModel@4f02528d
+selected modules : 
+JAVA,Python
+Database,Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+level:null
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+level:null
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: 
+Student_ID: 
+Contact Number: 
+Address: 
+Gender: Gender:
+Nationality: 
+level:null
+selected modules : 
+null,null
+null,null
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: yu
+Student_ID: tyu
+Contact Number: yu
+Address:  yui
+Gender: Gender:
+Nationality:  
+level:null
+selected modules : 
+null,null
+null,null
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name: yu
+Student_ID: tyu
+Contact Number: yu
+Address:  yui
+Gender: Gender:
+Nationality:  
+level:null
+selected modules : 
+null,null
+null,null
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namefd  Student_ID43
+Contact Number: 432
+Address: fds
+gender:Gender:
+Nationality: nrde
+level:javax.swing.JToggleButton$ToggleButtonModel@3fb5d6f9
+selected modules : 
+Python,JAVA
+Database,Programming
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+
+
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name  Student_ID
+Contact Number: 
+Address: 
+gender:Gender:
+Nationality: 
+level:null
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesdf  Student_ID234f
+Contact Number: 2345
+Address: dfg
+gender:Gender:
+Nationality: sdfg
+level:javax.swing.JToggleButton$ToggleButtonModel@64a96841
+selected modules : 
+Python,Python
+null,null
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student NameSubin  Student_ID234khanal
+Contact Number: 98542211
+Address: nuwakot
+gender:Gender:
+Nationality: nepali
+level:javax.swing.JToggleButton$ToggleButtonModel@6c7793f8
+selected modules : 
+JAVA,Python
+null,null
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name  Student_ID
+Contact Number: 
+Address: 
+gender:Gender:
+Nationality: 
+level:null
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namefghj  Student_IDfghjkl
+Contact Number: 
+Address: 
+gender:Gender:
+Nationality: 
+level:null
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin  Student_IDnp03a190321
+Contact Number: 654321
+Address: nuwakot
+gender:Gender:
+Nationality: nepali
+level:javax.swing.JToggleButton$ToggleButtonModel@64a96841
+selected modules : 
+JAVA,Python
+null,null
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin  Student_IDnp03a190321
+Contact Number: 87654321
+Address: sdfghjk
+gender:Gender:
+Nationality: nepali
+level:javax.swing.JToggleButton$ToggleButtonModel@6dc463fc
+selected modules : 
+Python,Python
+C++,null
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin  Student_ID23sd
+Contact Number: 87
+Address: sdef
+gender:Gender:
+Nationality: sdf
+level:javax.swing.JToggleButton$ToggleButtonModel@57624e10
+selected modules : 
+null,null
+null,null
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Name 
+ Student_ID: 
+Contact Number: 
+Address: 
+gender:Gender:
+Nationality: 
+level:javax.swing.JToggleButton$ToggleButtonModel@586631a2
+selected modules : 
+null,null
+null,null
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin 
+ Student_ID: 987654kjhgf
+Contact Number: 98765432
+Address: xcdbsvjbf
+gender:Gender:
+Nationality: nepali
+level:javax.swing.JToggleButton$ToggleButtonModel@11a2b187
+selected modules : 
+null,null
+null,null
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin 
+ Student_ID: 98765432fghyj
+Contact Number: 987654
+Address: hgfd
+gender:Gender:
+Nationality: nepali
+level:javax.swing.JToggleButton$ToggleButtonModel@ec54a97
+selected modules : 
+Python,Python
+null,null
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+showlevel:javax.swing.JToggleButton$ToggleButtonModel@5358bcd8
+Had chosen: null
+ you choose module are c++,c,python,java
+selected modules : 
+null,null
+null,null
+Had chosen: null
+showlevel:javax.swing.JToggleButton$ToggleButtonModel@5358bcd8
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+showlevel:javax.swing.JToggleButton$ToggleButtonModel@7e1e1696
+Had chosen: null
+showlevel:javax.swing.JToggleButton$ToggleButtonModel@3ad68a0b
+Had chosen: null
+showlevel:javax.swing.JToggleButton$ToggleButtonModel@615d242f
+Had chosen: null
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin 
+ Student_ID: sdfg345
+Contact Number: 345
+Address: edrt
+gender:Gender:
+Nationality: nepali
+level:javax.swing.JToggleButton$ToggleButtonModel@ec54a97
+Had chosen: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin 
+ Student_ID: 234r56drft
+Contact Number: 345
+Address: sdf
+gender:Gender:
+Nationality: nepali
+level:subin you choose module are c++,c,python,java
+
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin 
+ Student_ID: 345
+Contact Number: 234
+Address: sdfrgh
+gender:Gender:
+Nationality: nepali
+subin you choose module are c++,c,python,java(level 4)
+
+Had chosen: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin 
+ Student_ID: 5432
+Contact Number: 65432
+Address: dfgh
+gender:Gender:
+Nationality: nepali
+subin you choose module are Database,Programming(sem_6)
+
+Had chosen course: BIT
+                    Total amount to be paid is 3.9 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin 
+ Student_ID: 234
+Contact Number: 1234
+Address: asdf
+gender:Gender:
+Nationality: nepali
+subin you choose module are c++,c,python,java(level 4)
+
+Had chosen course: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesdfg 
+ Student_ID: sdf
+Contact Number: 34
+Address: sdf
+gender:Gender:
+Nationality: def
+sdfg you choose module are c++,c,python,java(level 4)
+
+Had chosen course: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
+-------------------------------------------Student Information---------------------------------------------------------------------------
+Student Namesubin 
+ Student_ID: 234wer
+Contact Number: 234
+Address: nuwakot
+gender:Gender:
+Nationality: nepali
+subin you choose module are JAVA,Python(sem_5)
+
+Had chosen course: BBA
+                    Total amount of this course to be paid is 4 Lakhs   
